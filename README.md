@@ -25,6 +25,8 @@
   atau fungsi yang menggunakan Class Asynctask. Dalam penggunaannya memang 'sedikit' sulit.
   Volley tidak cocok untuk operasi download atau streaming yang besar karena Volley menyimpan semua respons
   dalam memori selama mengambil data API.
+      Jika ingin menggunakan Library ini, kalian cukup menambahkan 
+  <b> implementation 'com.android.volley:volley:1.1.1' </b>  pada  build.gradle Android Studio kalian. 
 </pre>
 
 <h4>Rest Api Retrofit</h4>
@@ -36,6 +38,8 @@
   berinteraksi dengan API dengan mengirimkan request menggunakan OkHTTP. Library Retrofit ini juga banyak 
   digunakan oleh perusahaan-perusahaan Startup dalam aplikasi Mobile-nya, salah satunya Tokopedia dan OVO. 
   Tidak hanya itu, aplikasi Sosmed yang kita gunakan sehari-hari juga menggunakan Library Retrofit.
+      Jika ingin menggunakan Library ini, kalian cukup menambahkan 
+  <b>implementation 'com.squareup.retrofit2:retrofit:2.6.2'</b> pada  build.gradle Android Studio kalian.
 </pre>
 
 <h3>Screenshot Project RestAPI Volley</h3>
