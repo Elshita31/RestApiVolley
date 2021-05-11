@@ -40,5 +40,10 @@
 
 <h3>Screenshot Project RestAPI Volley</h3>
 <h5>Pada project ini menampilkan karakter-karakter dari game Dota</h5>
-<img src="1.jpeg" height="600px" width="300px" alt="ss">
+
+| Main Page  | Full Page |
+| ----- | --- |
+| ![main_page](https://github.com/Elshita31/RestApiVolley/blob/master/1.jpeg)   | ![full_page](https://github.com/Elshita31/RestApiVolley/blob/master/2.gif)  |
+
+
 
