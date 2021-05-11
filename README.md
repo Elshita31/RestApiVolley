@@ -19,21 +19,21 @@
 <h4>Rest Api Volley</h4>
 <pre>
       Volley adalah library HTTP yang mempermudah dan yang terpenting mempercepat networking untuk aplikasi Android.
-  Tetapi Library buatan Google ini kurang populer dibanding kedua Library sebelumnya, 
-  karena fitur yang dimilikinya pun sedikit. 
-      Secara default, Volley menggunakan metode sinkronisasi. Jadi kalian tidak perlu membuat sebuah Method 
-  atau fungsi yang menggunakan Class Asynctask. Dalam penggunaannya memang 'sedikit' sulit. 
-  Volley tidak cocok untuk operasi download atau streaming yang besar karena Volley menyimpan semua respons 
+  Tetapi Library buatan Google ini kurang populer dibanding kedua Library sebelumnya,
+  karena fitur yang dimilikinya pun sedikit.
+      Secara default, Volley menggunakan metode sinkronisasi. Jadi kalian tidak perlu membuat sebuah Method
+  atau fungsi yang menggunakan Class Asynctask. Dalam penggunaannya memang 'sedikit' sulit.
+  Volley tidak cocok untuk operasi download atau streaming yang besar karena Volley menyimpan semua respons
   dalam memori selama mengambil data API.
 </pre>
 
 <h4>Rest Api Retrofit</h4>
 <pre>
-      Retrofit ini merupakan Library turunan dari OkHTTP yang dibuat oleh Square yang digunakan sebagai 
-  REST Client pada Android, yang pasti akan memudahkan kita. Karena kita tidak perlu lagi untuk membuat 
-  Method sendiri untuk menggunakan REST Client API dari Backend. 
-      Library ini menyediakan framework yang powerfull untuk authenticating dan berinteraksi dengan API dengan mengirimkan request menggunakan OkHTTP. 
-  Library Retrofit ini juga banyak digunakan oleh perusahaan-perusahaan Startup dalam aplikasi Mobile-nya, 
-  salah satunya Tokopedia dan OVO. Tidak hanya itu, aplikasi Sosmed yang kita gunakan sehari-hari 
-  juga menggunakan Library Retrofit.
+      Retrofit ini merupakan Library turunan dari OkHTTP yang dibuat oleh Square yang digunakan sebagai
+  REST Client pada Android, yang pasti akan memudahkan kita. Karena kita tidak perlu lagi untuk membuat
+  Method sendiri untuk menggunakan REST Client API dari Backend.
+      Library ini menyediakan framework yang powerfull untuk authenticating dan 
+  berinteraksi dengan API dengan mengirimkan request menggunakan OkHTTP. Library Retrofit ini juga banyak 
+  digunakan oleh perusahaan-perusahaan Startup dalam aplikasi Mobile-nya, salah satunya Tokopedia dan OVO. 
+  Tidak hanya itu, aplikasi Sosmed yang kita gunakan sehari-hari juga menggunakan Library Retrofit.
 </pre>
