@@ -42,7 +42,7 @@
 <h5>Pada project ini menampilkan karakter-karakter dari game Dota</h5>
 
 | Main Page  | Full Page |
-| ----- | --- |
+| ----- | ----- |
 | ![main_page](https://github.com/Elshita31/RestApiVolley/blob/master/3.jpg)   | ![full_page](https://github.com/Elshita31/RestApiVolley/blob/master/2.gif)  |
 
 
