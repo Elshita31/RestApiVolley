@@ -40,7 +40,10 @@
 
 <h3>Screenshot Project RestAPI Volley</h3>
 <h5>Pada project ini menampilkan karakter-karakter dari game Dota</h5>
-SplashScreen | Menu Utama | Full Project
---- | --- | ---
-![splashscreen] | ![menu_utama] | ![full_project]
+Menu Utama | Full Project
+--- | ---
+![main_page] | ![full_page]
+
+[main_page]: https://github.com/Elshita31/RestApiVolley/blob/master/1.jpeg
+[full_page]: https://github.com/Elshita31/RestApiVolley/blob/master/2.gif
 
