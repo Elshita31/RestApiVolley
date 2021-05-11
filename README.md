@@ -40,19 +40,7 @@
 
 <h3>Screenshot Project RestAPI Volley</h3>
 <h5>Pada project ini menampilkan karakter-karakter dari game Dota</h5>
-<table>
-  <tr>
-    <th>Main Page</th>
-    <th>Full page</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="1.jpeg" height="600px" width="300px" alt="ss">
-    </td>
-    <td>
-      <video height="600px" width="300px" autoplay >
-        <source src="2.mp4" type="video/mp4">
-      </video>
-    </td>
-  </tr>
-</table>
+SplashScreen | Menu Utama | Full Project
+--- | --- | ---
+![splashscreen] | ![menu_utama] | ![full_project]
+
