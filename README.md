@@ -18,9 +18,9 @@
 <h3>Apa perbedaan dari Rest Api Volley dan Retrofit</h3>
 <h4>Rest Api Volley</h4>
 <pre>
-      Volley adalah library HTTP yang mempermudah dan yang terpenting mempercepat networking untuk aplikasi Android.
-  Tetapi Library buatan Google ini kurang populer dibanding kedua Library sebelumnya,
-  karena fitur yang dimilikinya pun sedikit.
+      Volley adalah library HTTP yang mempermudah dan yang terpenting mempercepat networking 
+  untuk aplikasi Android. Tetapi Library buatan Google ini kurang populer dibanding kedua 
+  Library sebelumnya, karena fitur yang dimilikinya pun sedikit.
       Secara default, Volley menggunakan metode sinkronisasi. Jadi kalian tidak perlu membuat sebuah Method
   atau fungsi yang menggunakan Class Asynctask. Dalam penggunaannya memang 'sedikit' sulit.
   Volley tidak cocok untuk operasi download atau streaming yang besar karena Volley menyimpan semua respons
